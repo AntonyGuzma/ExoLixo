@@ -3,3 +3,9 @@
 /* -------------------------------------------------------------------------- */
 /* prettier-ignore */
 /*# sourceMappingURL=user.css.map */
+
+.justify-content-between {
+    -webkit-box-pack: justify !important;
+    -ms-flex-pack: justify !important;
+    justify-content: right !important;
+}
